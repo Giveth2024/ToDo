@@ -1,0 +1,44 @@
+Here is a 3-hour practical exam that tests your knowledge in HTML, CSS, and JavaScript, covering the topics you provided:
+
+*Task:*
+
+Create a simple To-Do List application that allows users to add, remove, and mark tasks as completed. The application should have the following features:
+
+1. A text input field to add new tasks
+2. A button to add tasks to the list
+3. A list element to display tasks
+4. A button to remove tasks from the list
+5. A button to mark tasks as completed
+
+*Requirements:*
+
+1. Use HTML, CSS, and JavaScript to create the application
+2. Use the `prompt()` function to get user input for new tasks
+3. Use the `alert()` function to display messages to the user
+4. Use booleans to keep track of task completion status
+5. Use the `.checked` property to toggle task completion
+6. Use a `for` loop to iterate over the task list
+7. Use `if` statements to handle user input and task status
+8. Use logical operators to combine conditions
+9. Use assignment operators to update task status
+10. Use string methods to manipulate task text
+11. Use method chaining to concatenate string methods
+12. Use the `padStart()` method to format task numbers
+13. Use the `slice()` method to extract task text
+14. Use variable scope to manage global and local variables
+
+*Constraints:*
+
+1. Use only HTML, CSS, and JavaScript (no frameworks or libraries)
+2. Write clean, readable, and well-structured code
+3. Test your code in a browser to ensure it works as expected
+
+*Grading Criteria:*
+
+1. Functionality (40 points)
+2. Code quality and structure (30 points)
+3. User experience and design (30 points)
+
+*Time Limit:* 3 hours
+
+Good luck!!
